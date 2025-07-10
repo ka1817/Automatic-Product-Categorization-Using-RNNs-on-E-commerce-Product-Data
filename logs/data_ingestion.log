@@ -1,0 +1,2 @@
+2025-07-10 15:29:55,328 - src.data_ingestion - INFO - Reading data from C:\Users\saipr\Text-Classification\data\ecommerceDataset.csv
+2025-07-10 15:29:55,866 - src.data_ingestion - INFO - Data shape: (50424, 2)

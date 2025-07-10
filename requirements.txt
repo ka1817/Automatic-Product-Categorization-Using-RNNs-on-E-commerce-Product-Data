@@ -4,3 +4,5 @@ scikit-learn
 tensorflow
 fastapi
 uvicorn
+python-multipart
+mlflow

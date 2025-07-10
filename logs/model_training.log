@@ -1,0 +1,4 @@
+2025-07-10 15:29:55,877 - __main__ - INFO - Preprocessing text and labels.
+2025-07-10 15:30:08,772 - __main__ - INFO - Building LSTM model.
+2025-07-10 15:30:09,801 - __main__ - INFO - Training model with early stopping.
+2025-07-10 16:22:18,805 - __main__ - INFO - Model training completed with accuracy: 0.9699553847312927

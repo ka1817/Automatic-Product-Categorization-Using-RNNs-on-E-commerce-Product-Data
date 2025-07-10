@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/805849051221438418/31084ed284f74df8b042fdf0c1fd50bc/artifacts
+end_time: 1752144738806
+entry_point_name: ''
+experiment_id: '805849051221438418'
+lifecycle_stage: active
+run_id: 31084ed284f74df8b042fdf0c1fd50bc
+run_name: stately-calf-891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752141609608
+status: 3
+tags: []
+user_id: saipr
