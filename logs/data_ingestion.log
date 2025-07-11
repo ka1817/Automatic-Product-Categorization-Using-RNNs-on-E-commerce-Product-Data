@@ -1,2 +1,14 @@
 2025-07-10 15:29:55,328 - src.data_ingestion - INFO - Reading data from C:\Users\saipr\Text-Classification\data\ecommerceDataset.csv
 2025-07-10 15:29:55,866 - src.data_ingestion - INFO - Data shape: (50424, 2)
+2025-07-11 10:14:52,084 - src.data_ingestion - INFO - Reading data from C:\Users\saipr\Text-Classification\data\ecommerceDataset.csv
+2025-07-11 10:14:52,624 - src.data_ingestion - INFO - Data shape: (50424, 2)
+2025-07-11 10:14:52,640 - src.data_ingestion - INFO - Reading data from C:\Users\saipr\Text-Classification\data\ecommerceDataset.csv
+2025-07-11 10:14:53,103 - src.data_ingestion - INFO - Data shape: (50424, 2)
+2025-07-11 10:18:08,407 - src.data_ingestion - INFO - Reading data from C:\Users\saipr\Text-Classification\data\ecommerceDataset.csv
+2025-07-11 10:18:08,878 - src.data_ingestion - INFO - Data shape: (50424, 2)
+2025-07-11 10:18:08,880 - src.data_ingestion - INFO - Reading data from C:\Users\saipr\Text-Classification\data\ecommerceDataset.csv
+2025-07-11 10:18:09,323 - src.data_ingestion - INFO - Data shape: (50424, 2)
+2025-07-11 10:18:41,522 - src.data_ingestion - INFO - Reading data from C:\Users\saipr\Text-Classification\data\ecommerceDataset.csv
+2025-07-11 10:18:41,981 - src.data_ingestion - INFO - Data shape: (50424, 2)
+2025-07-11 10:18:42,003 - src.data_ingestion - INFO - Reading data from C:\Users\saipr\Text-Classification\data\ecommerceDataset.csv
+2025-07-11 10:18:42,486 - src.data_ingestion - INFO - Data shape: (50424, 2)
