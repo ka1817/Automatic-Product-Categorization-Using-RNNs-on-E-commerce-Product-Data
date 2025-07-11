@@ -26,7 +26,7 @@ def train_model():
         texts = df['Description'].astype(str).tolist()
         labels = df['class'].astype(str).tolist()
 
-        logger.info("Preprocessing text and labels.")
+        logger.info("Preprocessing text and labels")
 
         label_encoder = LabelEncoder()
         encoded_labels = label_encoder.fit_transform(labels)

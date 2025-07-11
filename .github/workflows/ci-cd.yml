@@ -72,5 +72,5 @@ jobs:
             docker rm text-classification || true
             docker rmi ${{ secrets.DOCKER_USERNAME }}/${{ env.IMAGE_NAME }}:latest || true
             docker pull ${{ secrets.DOCKER_USERNAME }}/${{ env.IMAGE_NAME }}:latest
-            docker run -d --name text-classification -p 80:80 ${{ secrets.DOCKER_USERNAME }}/${{ env.IMAGE_NAME }}:latest
+            docker run -d --name text-classification -p 8000:8000 ${{ secrets.DOCKER_USERNAME }}/${{ env.IMAGE_NAME }}:latest
           EOF

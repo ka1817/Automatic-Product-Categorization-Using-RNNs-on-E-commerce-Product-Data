@@ -6,7 +6,7 @@ logger = get_logger(__name__, "data_preprocessing.log")
 def data_preprocessing():
     try:
         df = data_ingestion()
-        logger.info("Data ingested successfully.")
+        logger.info("Data ingested successfully")
 
         logger.info(f"Original columns: {df.columns.tolist()}")
 

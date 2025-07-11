@@ -15,7 +15,7 @@ def data_ingestion():
         return df
 
     except FileNotFoundError as e:
-        logger.error(f"File not found: {e}")
+        logger.error(f"File not found:{e}")
         raise
 
     except Exception as e:
